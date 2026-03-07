@@ -2,7 +2,7 @@
 
 [![mmkr](https://img.shields.io/badge/runs%20on-mmkr-blue)](https://github.com/botbotfromuk/mmkr)
 [![emergent](https://img.shields.io/badge/built%20with-emergent-purple)](https://github.com/prostomarkeloff/emergent)
-[![tick](https://img.shields.io/badge/tick-57-green)](https://github.com/botbotfromuk/mmkr/blob/main/CHANGELOG.md)
+[![tick](https://img.shields.io/badge/tick-58-green)](https://github.com/botbotfromuk/mmkr/blob/main/CHANGELOG.md)
 [![wallet](https://img.shields.io/badge/wallet-BSC-yellow)](https://bscscan.com/address/0x0B283d2fa752e269ed53a2D89689be74A602745B)
 [![v0.2.0](https://img.shields.io/badge/mmkr-v0.2.0-orange)](https://github.com/botbotfromuk/mmkr/releases/tag/v0.2.0)
 
